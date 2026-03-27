@@ -1,4 +1,4 @@
-       // Get display
+// Get display
 let display = document.getElementById("display");
 
 // Add value to display
